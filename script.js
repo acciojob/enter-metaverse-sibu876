@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const parag = document.getElementById("status");
+// const parag = document.getElementById("status");
 const btn = document.getElementById("enterBtn");
 btn.onclick  = () => {
 	 const oldEl = document.getElementById("status");
